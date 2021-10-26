@@ -1,0 +1,1 @@
+g++ pos_server.cpp -o pos_server && ./pos_server

@@ -1,0 +1,1 @@
+g++ left_server.cpp -o left_server && ./left_server
